@@ -1,2 +1,2 @@
 # opendata-examples
-Example notebooks for interacting with Open Data provided by Axpo.
+Example notebooks for interacting with open.data.axpo.com.
